@@ -22,17 +22,6 @@ Welcome to the ESP32 BLE Gamepad project! This versatile gamepad is designed for
 - Arduino IDE
 - ESP32 BLE Gamepad Library
 
-## Video Demonstration
-
-<div style="padding:100% 0 0 0;position:relative;">
-  <iframe src="https://player.vimeo.com/video/1045961505?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
-  frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" 
-  style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-  title="gamepad"></iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
-
-
 ## Installation and Setup
 
 1. **Clone the Repository**
@@ -47,7 +36,7 @@ Welcome to the ESP32 BLE Gamepad project! This versatile gamepad is designed for
    - Install the `BleGamepad` library from the Arduino Library Manager.
 
 4. **Configure the Pins**
-   - Ensure the pins are connected as per the following configuration or you can define your own configuration of the pins:
+   - Ensure the pins are connected as per the following configuration:
      ```cpp
      #define LEFT_JOYSTICK_VRX 34
      #define LEFT_JOYSTICK_VRY 35
@@ -79,7 +68,6 @@ Welcome to the ESP32 BLE Gamepad project! This versatile gamepad is designed for
      bleGamepad.setAxes(leftX_mapped, leftY_mapped, rightX_mapped, 0, rightY_mapped);
      ```
    - Comment and uncomment the respective lines in the code based on the platform you are targeting.
-   - Please do not uncommment both lines only choose one.
 
 6. **Upload the Code**
    - Connect your ESP32 to your computer.
@@ -115,3 +103,4 @@ For any questions or feedback, please open an issue on GitHub or contact the pro
 Happy gaming and tinkering! 🎮🚁🏎️
 
 #ESP32 #Arduino #Bluetooth #Gamepad #DIY #IoT #Drone #RCCars #Gaming #PowerBank #EmbeddedSystems
+```
