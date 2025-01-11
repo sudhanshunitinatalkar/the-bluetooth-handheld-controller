@@ -103,4 +103,3 @@ For any questions or feedback, please open an issue on GitHub or contact the pro
 Happy gaming and tinkering! 🎮🚁🏎️
 
 #ESP32 #Arduino #Bluetooth #Gamepad #DIY #IoT #Drone #RCCars #Gaming #PowerBank #EmbeddedSystems
-```
