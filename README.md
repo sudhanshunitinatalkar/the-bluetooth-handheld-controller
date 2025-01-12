@@ -2,7 +2,8 @@
 
 Welcome to the-bluetooth-handheld-controller project. This versatile gamepad is designed for gaming, drone control, and RC vehicle operation. It also doubles as a portable power bank, thanks to its two 2600mAh 18650 batteries. Built using the Arduino IDE and the ESP32 BLE Gamepad library, this project features HW-504 joysticks, a durable PVC pipe frame, and advanced power management with a voltage booster and TP4056 Type-C charger.
 
-![Screenshot_20250112_085342](https://github.com/user-attachments/assets/ed9eb069-1f1a-4634-a95f-75e38f67048e)
+![Screenshot_20250112_085342](https://github.com/user-attachments/assets/060ed790-7b57-4d2a-a873-f2b391d3bcf3)
+
 
 ## Features
 - **Dual Joystick Control**: Two HW-504 joysticks for precise control.
